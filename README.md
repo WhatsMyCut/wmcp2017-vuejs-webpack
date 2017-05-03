@@ -1,6 +1,6 @@
-# webtest
+# wmcp2017-vuejs-webpack Vue.js Application
 
-> Selenium Web Testing Package
+> Vue.js MVVC Application using Webpack, eslint, babel, mocha, chai
 
 ## Build Setup
 
