@@ -1,6 +1,8 @@
 # wmcp2017-vuejs-webpack Vue.js Application
 
-> Vue.js MVVC Application using Webpack, eslint, babel, mocha, chai
+> 
+
+See the [Vue.js Documentation](https://vuejs.org/v2/guide/installation.html) for more information.
 
 ## Build Setup
 
