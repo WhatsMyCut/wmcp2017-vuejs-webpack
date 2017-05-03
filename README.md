@@ -2,7 +2,7 @@
 
 > Vue.js MVVC Application using Webpack, eslint, babel, mocha, chai
 
-See the [Vue.js Documentation](https://vuejs.org/v2/guide/installation.html) for more information.
+See the [Vue.js Documentation](https://vuejs.org/v2/guide/installation.html#CLI) for more information.
 
 ## Build Setup
 
